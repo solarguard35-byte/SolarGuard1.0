@@ -182,12 +182,3 @@ cd pv-frontend
 | **Frontend**      | HTML5, CSS3, JavaScript             |
 | **Visualization** | Chart.js                            |
 
----
-
-If you want, I can also:
-
-✔️ Generate a **diagram** showing the architecture
-✔️ Write a **full documentation** section for the ESP32 firmware
-✔️ Generate **badges (shields.io)** for GitHub
-✔️ Create a **logo** for SolarGuard
-✔️ Create **architecture flowcharts**
