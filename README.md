@@ -103,8 +103,3 @@ cd pv-frontend
 | **Framework** | Next.js |
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Visualization** | Chart.js |
-
-
----
-
-### ⭐ Star this repo if you find it useful!
